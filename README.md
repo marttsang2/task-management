@@ -22,7 +22,5 @@ npm run build
 
 ## 🖼 Preview
 ![](/public/demo-2.png)
-<img src="/public/demo-2.png" width=50% height=50%><img src="/public/demo-2.png" width=50% height=50%>
 
 ![](/public/demo-1.png)
-<img src="/public/demo-1.png" width=50% height=50%><img src="/public/demo-1.png" width=50% height=50%>
